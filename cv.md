@@ -25,11 +25,19 @@ I want to realize myself in what i love ,this is what i dreamt about. To do this
 ## Skills and Proficiency:
 * HTML5, CSS3
 * JavaScript Basics
+* React, Redux
+* Axios, Fetch
 * C# Basics
 * Git, Github
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Illustrator
-
+## Last pet-projects:
+* [NFT preview card component solution](https://rahunak.github.io/nft-preview-card-component-main/)
+* [Order summary card solution](https://rahunak.github.io/order-summary-component-main/)
+* [Advice app](https://rahunak.github.io/advice/)
+* [Note Editor](https://rahunak.github.io/note-editor/)
+* [Calculator](https://rahunak.github.io/calculator/)
+* [My other portfolio](https://rahunak.github.io/PortfolioZaiko.github.io/)
 ## Courses:
 * [React+Redux course](https://www.sololearn.com/Certificate/1097-12420414/jpg)
 * [Responsive Web Design](https://www.freecodecamp.org/certification/rahunak/responsive-web-design)
