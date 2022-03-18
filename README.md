@@ -1,1 +1,1 @@
-https://rahunak.github.io/rsschool-cv/cv
+https://rahunak.github.io/rsschool-cv/cv.md
